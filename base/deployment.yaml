@@ -12,7 +12,7 @@ spec:
         deployment: demo
     spec:
       containers:
-      - name: the-container
+      - name: the-containe
         image: annabaker/kustomize-demo-app:latest
         ports:
         - containerPort: 8080
